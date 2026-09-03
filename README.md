@@ -5,17 +5,17 @@
 
 ## Introduction:  
 
+> 👋 My name is Damian Haviland. I have an Associates of Science in Computer Science from Sinclair Community College. I am continuing to pursue my Bachelors of Science in Computer Science at Wright State University. 🎓💻
 
-- 👋 Damian Haviland
+> I’m currently learning to work with Linux, databases, and more
+
+> I sew 🪡, I am an artist 🖌, and love building architecture and interior design in games 🏛.
+
 - ✉ haviland.5@wright.edu
-- 🎓 Major: Computer Science 💻
-
-
- I’m currently learning to work with Linux, databases, and more
-
-I sew 🪡, I am an artist 🖌, and love building architecture and interior design in games 🏛.
 
 ---
+
+## Projects (*that I want to work on*):
 
 - ✨ Project 1: Creating simple DnD character design
 - ✨ Project 2: (Potentially) Project 2: Build a project based on analysing Neurodivergence, diagnosis, terminology, etc

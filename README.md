@@ -6,14 +6,14 @@
 ## Introduction:  
 
 
-- Damian Haviland
-- haviland.5@wright.edu
+- 👋 Damian Haviland
+- ✉ haviland.5@wright.edu
 - 🎓 Major: Computer Science 💻
 
 
-🌱 I’m currently learning to work with Linux, databases, and more
+ I’m currently learning to work with Linux, databases, and more
 
-I sew, I am an artist, and love building architecture and interior design in games.
+I sew 🪡, I am an artist 🖌, and love building architecture and interior design in games 🏛.
 
 ---
 
@@ -23,9 +23,7 @@ I sew, I am an artist, and love building architecture and interior design in gam
 - ✨ Project 4: Yearly Bingo Card
 - ✨ Project 5: 
 
-
 ---
-
 
 ## Citations 🖊
 

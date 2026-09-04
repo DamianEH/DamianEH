@@ -4,7 +4,7 @@
 
 > **My name is Damian Haviland. I have an Associates of Science in Computer Science from Sinclair Community College. I am continuing to pursue my Bachelors of Science in Computer Science at Wright State University.** 🎓💻  
 > **I’m currently learning to work with Linux, databases, and more.**  
-> **I sew , I am an artist , and enjoy building architecture and interior design in games.** 🪡🖌🏛
+> **I sew, I am an artist, and enjoy building architecture and interior design in games.** 🪡🖌🏛
 
 ### Contacts:  
 - ✉ haviland.5@wright.edu
@@ -14,10 +14,12 @@
 ## ✨ Projects (*to-do*):
 
 - Project 1: Creating ~~simple~~ DnD character design
-- Project 2: (Potentially) Project 2: Build a project based on analysing Neurodivergence, diagnosis, terminology, etc
+- Project 2: (Potentially) Build a project based on analysing Neurodivergence, diagnosis, terminology, etc
 - Project 3: (Potentially) Build a database of Special Interest (subject potential to change) books, resources, etc
-- Project 4: Yearly Bingo Card
-- Project 5: 
+- Project 4: Yearly Bingo Card (Github formatting? and/or html)
+- Project 5: Create an escape room
+- Project 6: Database based on Crash Course videos, analytics, management
+- Project 7: Database of open source data? (with info)
 
 ---
 

@@ -1,6 +1,3 @@
-
-
-
 ## Instructions:  
 - ADD (Operate[^1]) = 0001  
     - Adds two numbers
